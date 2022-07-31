@@ -1,2 +1,2 @@
-# Data_Visualization_and_Exploration
-Data Visualization and Exploration
+# Visualizing and Exploring Data
+This project explores data using univariate, bivariate and multivariate visualization tools.
